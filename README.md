@@ -1,1 +1,1 @@
-"# BizHawkDiscordRPC" 
+# BizHawkDiscordRPC
