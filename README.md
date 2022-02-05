@@ -1,1 +1,2 @@
-"# BizHawkDiscordRPC" 
+# BizHawkDiscordRPC
+Instructions coming soon!
