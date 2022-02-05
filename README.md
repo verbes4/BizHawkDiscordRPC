@@ -1,1 +1,2 @@
 # BizHawkDiscordRPC
+Instructions coming soon!
