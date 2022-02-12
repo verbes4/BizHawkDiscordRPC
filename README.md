@@ -1,4 +1,4 @@
-# BizHawkDiscordRPC
+# BizHawkDiscordRPC (Windows Only!!!)
 I use linux now but basically clone the repo, do "pip install -r reqirements.txt".
 
 Then open BizHawk, run the .py file, open a ROM, then go to the .py file and press enter.
